@@ -1,0 +1,48 @@
+.branding {
+    font-size: 17px;
+}
+
+.showcase {
+    background: url('../img/showcase.jpg') no-repeat;
+    padding: 140px 100px;
+    background-size: cover;
+    background-position: center;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    color: white;
+}
+
+.showcase h1 {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.showcase hr {
+    width: 100px;
+    margin: auto;
+    border-width: 3px;
+    border-color: yellow;
+}
+
+.showcase p {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.section {
+    padding: 40px 0;
+}
+
+.section h2 {
+    padding: 0;
+    margin: 0;
+}
+
+.section .fa {
+    font-size: 50px;
+}
+
+.section img {
+    width: 100%;
+}
